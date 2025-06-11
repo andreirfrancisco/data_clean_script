@@ -1,3 +1,4 @@
-# data_clean_script
+# Example of Data Cleaning
 
-Here is an example of a script for cleaning datasets and preparing for Power Bi dashboards such as viewing trends and KPIS.
+This repository contains a script designed for cleaning datasets for a client. The datasets were updated to ensure accuracy and consistency for dashboards that visualize time series data and other important metrics.
+
